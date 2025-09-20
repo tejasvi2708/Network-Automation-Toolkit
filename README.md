@@ -16,10 +16,6 @@ A lightweight and modular Python toolkit designed for automating Cisco network d
  - Organizing device data with YAML-based inventory files
 
  - Secure and modular project structure for easy scaling
- -  Monitor Interface via RESTCONF
-python monitor_status.py
-
-
 
 
 # Tools & Frameworks Used
