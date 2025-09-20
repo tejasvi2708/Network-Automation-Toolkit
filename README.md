@@ -7,12 +7,20 @@ A lightweight and modular Python toolkit designed for automating Cisco network d
  - Automating configuration deployment using Netmiko
 
  - Monitoring device interfaces via RESTCONF
+    Fetches the interface status from the device using RESTCONF.
+    Prints the status output to the terminal.
+    Creates a *timestamped .txt* file in the project directory containing the interface status (or error message).
 
  - Generating device configs using Jinja2 templates
 
  - Organizing device data with YAML-based inventory files
 
  - Secure and modular project structure for easy scaling
+ -  Monitor Interface via RESTCONF
+python monitor_status.py
+
+
+
 
 # Tools & Frameworks Used
 
