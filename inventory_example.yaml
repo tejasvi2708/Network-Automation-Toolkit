@@ -1,0 +1,7 @@
+devices:
+  - name: iosxe-sandbox
+    host: devnetsandboxiosxec8k.cisco.com
+    port: 22
+    username: your_username
+    password: your_password
+    platform: cisco_ios

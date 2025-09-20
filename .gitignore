@@ -1,0 +1,19 @@
+# Ignore virtual environments
+myenv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore config/credentials
+credentials.py
+
+# Ignore IDE/project files
+*.log
+*.vscode/
+*.idea/
+.DS_Store
+
+inventory.yaml
